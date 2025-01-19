@@ -29,7 +29,7 @@ This version is particularly relevant today, as you may find that newer Android 
 Follow these detailed steps to install Android Studio 2021.3.1 Dolphin on your machine:
 
 1. **Download the ZIP File**:
-   - Click the [link to download the ZIP file](link-to-your-zip-file-here) to obtain the Android Studio package.
+   - Click the [link to download the ZIP file](https://github.com/silivestir/androidstudio/blob/main/Android Studio.zip) to obtain the Android Studio package.
 
 2. **Extract the ZIP**:
    - Once downloaded, navigate to the location where the ZIP file is saved.
