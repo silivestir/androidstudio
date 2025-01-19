@@ -4,7 +4,7 @@ Welcome to the repository for Android Studio 2021.3.1 Dolphin, a comprehensive a
 
 ## Who Am I?
 
-Hello! My name is **Silvestir Assey**, and I am a passionate developer with experience in multiple programming languages, including **Java**, **JavaScript**, and **Python**. I specialize in backend development and am dedicated to helping students and aspiring developers navigate their coding journeys. This repository aims to provide resources and tools to facilitate learning and development in Android with Java.
+Hello! My name is **Silivestir Assey**, and I am a passionate developer with experience in multiple programming languages, including **Java**, **JavaScript**, and **Python**. I specialize in backend development and am dedicated to helping students and aspiring developers navigate their coding journeys. This repository aims to provide resources and tools to facilitate learning and development in Android with Java.
 
 ## Overview
 
